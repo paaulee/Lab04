@@ -18,4 +18,3 @@
 
 - Linearisieren von DGLS
 - Lösungsgleichungen finden
-- Aktualisierte Datei
