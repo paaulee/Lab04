@@ -8,9 +8,11 @@
 
 ## Software-Engineering 
 
-- Einführung, 
-- Agile Softwareentwicklung#
+- Einführung in die SWT 
+- Agile Softwareentwicklung
 - Requirements Engineering
+- UML
+- Testing
 
 #MBR
 
