@@ -13,3 +13,6 @@
 - Requirements Engineering
 
 #MBR
+
+- Linearisieren von DGLS
+- Lösungsgleichungen finden
