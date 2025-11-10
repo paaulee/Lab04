@@ -6,7 +6,7 @@
 
 ## Module
 
-## Softwaretechnik
+## Software-Technik 
 
 - Einführung, 
 - Agile Softwareentwicklung#
