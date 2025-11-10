@@ -8,11 +8,11 @@
 
 ## Software-Engineering 
 
-- Einführung in die SWT 
+- Einführungskapitel
 - Agile Softwareentwicklung
 - Requirements Engineering
-- UML
-- Testing
+- Qualitätsmanagement
+- Modellbasierte SWE mit UML
 
 #MBR
 
