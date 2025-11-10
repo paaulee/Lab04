@@ -8,9 +8,11 @@
 
 ## Softwaretechnik
 
-- Einführung, 
-- Agile Softwareentwicklung#
+- Einführungskapitel
+- Agile Softwareentwicklung
 - Requirements Engineering
+- Qualitätsmanagement
+- Modellbasierte SWE mit UML
 
 #MBR
 
