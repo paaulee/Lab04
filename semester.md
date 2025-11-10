@@ -14,7 +14,7 @@
 - Qualitätsmanagement
 - Modellbasierte SWE mit UML
 
-#MBR
-
+# MBR 
+- Wasserfallmodell 3. Grades
 - Linearisieren von DGLS
 - Lösungsgleichungen finden
